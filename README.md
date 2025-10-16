@@ -33,7 +33,7 @@ Bienvenue dans le Hackathon Ynov Toulouse 2025 !
 - Cloud & Infrastructure 1 : PELISSIER Thibault
 - Cloud & Infrastructure 2 : TCHOUAR Sabrina
 - IA & Data 1 : PUJOL Ariel
-- IA & Data 2 : ANDRIEUX Rodolphe
+- IA & Data 2 : ANDRIEUX Rodolphe (Chef de projet)
 - IA & Data 3 : Salma BELSANY
 
 > Préciser qui est le porte parole de l'équipe, c'est lui qui répondra aux questions si nécessaire.
