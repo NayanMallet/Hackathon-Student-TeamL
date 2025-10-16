@@ -2,7 +2,9 @@
 
 ## Equipe
 
-- IA & Data 1 : NOM Prénom
+- IA & Data 1 : PUJOL Ariel
+- IA & Data 2 : ANDRIEUX Rodolphe
+- IA & Data 3 : Salma BELSANY
 
 Et si on réinventait l’expérience babyfoot à Ynov ? L’objectif de ce hackathon est de moderniser et digitaliser l’usage des babyfoots présents dans le Souk pour créer un service _next-gen_, pensé pour près de 1000 étudiants !
 
