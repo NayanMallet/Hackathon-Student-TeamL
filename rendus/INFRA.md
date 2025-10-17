@@ -1,10 +1,3 @@
-# Hackathon - Ynov Toulouse 2025 : Babyfoot du futur - Cloud & Infrastructure
-
-## Equipe
-
-- Cloud & Infrastructure 1 : PELISSIER Thibault
-- Cloud & Infrastructure 2 : TCHOUAR Sabrina
-
 ## Résumé
 
 Notre offre Platform-as-a-Service automatise le déploiement complet d’une plateforme de supervision et de logging conforme aux standards ANSSI et RGPD, via Terraform et Ansible.
@@ -98,7 +91,8 @@ Une plateforme unifiée de supervision et de logging.
 ## Schéma d'infrastructure cible (✅ atteint, ❌ non atteint)
 l'infrastructure comme précisée précédemment a étée pensée afin d'intégrer une offre cloud à divers client.
 
-insère le schéma d'infra ici
+![Infrastructure Docker](images/infrastructure.png)
+
 
 
 ## Guide de déploiement
@@ -108,7 +102,8 @@ insère le schéma d'infra ici
 * VM debian en Lan et en DMZ avec docker et docker-compose d'installé
 * Firewall installés et configurés suivant les règles de flux suivant :
 
-insère le fichier excel ici
+📄 [Voir le fichier Excel](babyfoot_flux_matrix.xlsx)
+
 
 #### commandes
 
@@ -134,17 +129,26 @@ Les couts ont étés évalués suivant :
 le cout de mise en oeuvre (avec la définition des étapes) main d'oeuvre et hors main d'oeuvre
 le cout de maintien en condition opérationnel main d'oeuvre et hors main d'oeuvre
 
-si tu peux mettre le screen de l'estimation de couts ici
+![Estimation coûts](images/couts.png)
 
 ## Estimation Planning
 
 les tâches sont estimées, et réalisées selon les processus de phase d'opportunité, de faisabilité, et de réalisation de projet. elles ont été établies en partant du principe qu'il sera nécéssaire d'obtenir validation de l'ensemble du corps (ou de responsable si le projet est au sein d'une entreprise) au sein d'instances représentées par des ⭐.
 
-si tu peux mettre le screen du planning ici
+![Planning](images/planning.png)
 
 ## résultats de mise en oeuvre
 
 si tu peux mettre les différents screen de résultat ici
+![Résultats](images/results1.jpg)
+![Résultats](images/results2.jpg)
+![Résultats](images/results3.png)
+![Résultats](images/results4.png)
+![Résultats](images/results5.png)
+![Résultats](images/results6.png)
+![Résultats](images/results7.png)
+![Résultats](images/results8.png)
+![Résultats](images/results9.png)
 
 ## Plan de Reprise d'Activité (PRA) et Politique de Sauvegarde
 
