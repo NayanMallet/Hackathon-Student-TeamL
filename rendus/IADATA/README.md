@@ -23,7 +23,7 @@ Des indicateurs de qualité repèrent les durées aberrantes, les scores manquan
 sans supprimer l’information d’origine. Le pipeline est modulaire (un fichier par thème), main.py lit babyfoot_dataset.csv et 
 écrit babyfoot_dataset_out.csv, prêt à être intégré ou rejoué dès que de nouvelles données arrivent.
 
-> 🧠 Le nettoyage final a produit `babyfoot_dataset_out.csv`, un fichier cohérent, typé, et exploitable.
+>  Le nettoyage final a produit `babyfoot_dataset_out.csv`, un fichier cohérent, typé, et exploitable.
 
 ---
 
