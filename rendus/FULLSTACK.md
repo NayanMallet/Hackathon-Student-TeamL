@@ -153,4 +153,4 @@ Conforme aux attentes de lisibilité/bonnes pratiques.
 ## Couverture des requis du sujet
 
 - Accueil attractive, Auth + rôles, Dashboard admin, API CRUD documentée, code propre. ✔️
-- Bonus démarrés : responsive, tests unitaires, export data pour Data, hooks IoT. ✔️
+- Bonus démarrés : responsive, tests unitaires, export data pour Data. ✔️
