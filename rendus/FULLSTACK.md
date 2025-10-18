@@ -43,10 +43,9 @@ Raisons : entités minimales pour réserver, attendre, jouer, tracer.
 ## Fonctionnalités livrées
 
 ### Public / Utilisateurs
-- Page d’accueil claire et incitative. CTA “Rejoindre la file” et “Réserver un créneau”.
+- Page d’accueil claire et incitative.
 - Inscription / Connexion, mot de passe hashé, remember optionnel.
 - Tableau de bord “Étudiant” :
-    - Voir les babyfoots et leur état.
     - Rejoindre / quitter une file.
     - Notification visuelle “à vous de jouer” quand appelé.
 
